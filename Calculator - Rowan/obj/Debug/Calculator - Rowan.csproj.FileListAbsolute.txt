@@ -1,0 +1,22 @@
+C:\Users\Rowan\source\repos\Calculator - Rowan\Calculator - Rowan\bin\Debug\Calculator - Rowan.exe.config
+C:\Users\Rowan\source\repos\Calculator - Rowan\Calculator - Rowan\bin\Debug\Calculator - Rowan.exe
+C:\Users\Rowan\source\repos\Calculator - Rowan\Calculator - Rowan\bin\Debug\Calculator - Rowan.pdb
+C:\Users\Rowan\source\repos\Calculator - Rowan\Calculator - Rowan\obj\Debug\Calculator - Rowan.csproj.AssemblyReference.cache
+C:\Users\Rowan\source\repos\Calculator - Rowan\Calculator - Rowan\obj\Debug\Calculator___Rowan.Calculator.resources
+C:\Users\Rowan\source\repos\Calculator - Rowan\Calculator - Rowan\obj\Debug\Calculator___Rowan.Properties.Resources.resources
+C:\Users\Rowan\source\repos\Calculator - Rowan\Calculator - Rowan\obj\Debug\Calculator - Rowan.csproj.GenerateResource.cache
+C:\Users\Rowan\source\repos\Calculator - Rowan\Calculator - Rowan\obj\Debug\Calculator - Rowan.csproj.CoreCompileInputs.cache
+C:\Users\Rowan\source\repos\Calculator - Rowan\Calculator - Rowan\obj\Debug\Calculator - Rowan.exe
+C:\Users\Rowan\source\repos\Calculator - Rowan\Calculator - Rowan\obj\Debug\Calculator - Rowan.pdb
+C:\Users\Rowan\source\repos\Calculator - Rowan\Calculator - Rowan\bin\Debug\System.Memory.dll
+C:\Users\Rowan\source\repos\Calculator - Rowan\Calculator - Rowan\bin\Debug\System.Text.Json.dll
+C:\Users\Rowan\source\repos\Calculator - Rowan\Calculator - Rowan\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Rowan\source\repos\Calculator - Rowan\Calculator - Rowan\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Rowan\source\repos\Calculator - Rowan\Calculator - Rowan\bin\Debug\System.Buffers.dll
+C:\Users\Rowan\source\repos\Calculator - Rowan\Calculator - Rowan\bin\Debug\System.ValueTuple.dll
+C:\Users\Rowan\source\repos\Calculator - Rowan\Calculator - Rowan\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Rowan\source\repos\Calculator - Rowan\Calculator - Rowan\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Rowan\source\repos\Calculator - Rowan\Calculator - Rowan\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Rowan\source\repos\Calculator - Rowan\Calculator - Rowan\obj\Debug\Calculator - Rowan.csproj.SuggestedBindingRedirects.cache
+C:\Users\Rowan\source\repos\Calculator - Rowan\Calculator - Rowan\obj\Debug\Calculator - Rowan.exe.config
+C:\Users\Rowan\source\repos\Calculator - Rowan\Calculator - Rowan\obj\Debug\Calculator - Rowan.csproj.CopyComplete
